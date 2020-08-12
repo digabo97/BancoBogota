@@ -1,13 +1,13 @@
 public class Person
 {
-    private int ii_id;
+    private long ii_id;
 
-    public int getId()
+    public long getId()
     {
         return ii_id;
     }
 
-    public void setId(int ai_id)
+    public void setId(long ai_id)
     {
         ii_id = ai_id;
     }
